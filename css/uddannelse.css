@@ -4,7 +4,7 @@
 }
 
 .left {
-    width: 49.9%;
+    width: 50%;
     height: 100%;
     background-color: rgb(40, 80, 70);
 }
@@ -127,10 +127,10 @@ ul {
 
 .img-top {
     height: 47.9vh;
-    width: 49.6vw;
+    width: 49.5vw;
 }
 
 .img-bottom {
     height: 47.9vh;
-    width: 49.6vw;
+    width: 49.5vw;
 }
