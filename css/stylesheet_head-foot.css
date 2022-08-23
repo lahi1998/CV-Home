@@ -8,7 +8,7 @@
     height: auto;
     display: flex;
     flex-direction: column;
-    background-color: darkslategrey;
+    background-color: rgb(40, 80, 70);
 }
 
 .page-head {
